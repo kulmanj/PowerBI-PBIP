@@ -27,8 +27,8 @@
                 }
               },
               "queryRef": "SalesData.Sales_",
-              "nativeQueryRef": "S",
-              "displayName": "S"
+              "nativeQueryRef": "Sales",
+              "displayName": "Sales"
             }
           ]
         }
