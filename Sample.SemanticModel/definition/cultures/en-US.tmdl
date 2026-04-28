@@ -736,7 +736,7 @@ cultureInfo en-US
 			          }
 			        },
 			        {
-			          "Sales": {
+			          "S": {
 			            "State": "Suggested",
 			            "Source": {
 			              "Type": "External",
